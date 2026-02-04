@@ -1,0 +1,9 @@
+langchain
+langchain-google-genai
+python-dotenv
+requests
+beautifulsoup4
+lxml
+pandas
+playwright
+google-genai

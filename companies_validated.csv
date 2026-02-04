@@ -1,0 +1,38 @@
+company,source_url,source_hint,category,icp_fit,confidence,evidence,reason
+Geotab,https://fieldserviceusa.wbresearch.com/,img alt,Telematics/IoT,Yes,95,Fleet telematics and IoT,Leading provider of telematics for fleet management.
+Oracle,https://fieldserviceusa.wbresearch.com/,img alt,ERP/CRM,Yes,95,Enterprise ERP/CRM with service modules,Major enterprise software provider with strong FSM and service capabilities.
+Salesforce,https://fieldserviceusa.wbresearch.com/,img alt,ERP/CRM,Yes,95,Enterprise CRM with service cloud,Leading CRM provider with comprehensive Field Service Lightning.
+SAP,https://fieldserviceusa.wbresearch.com/,img alt,ERP/CRM,Yes,95,Enterprise ERP/CRM with service modules,Major enterprise software provider with strong service management capabilities.
+ServiceNow,https://fieldserviceusa.wbresearch.com/,img alt,ERP/CRM,Yes,95,"Enterprise platform, ITSM, service workflow automation",Strong fit for service operations and workflow automation.
+Aquant,https://fieldserviceusa.wbresearch.com/,img alt,AI Service,Yes,85,AI for service operations,Specializes in AI-driven service intelligence and predictive maintenance.
+Ascendo.ai,https://fieldserviceusa.wbresearch.com/,img alt,AI Service,Yes,85,"AI in name, suggests service intelligence",Likely offers AI solutions focused on service operations or knowledge.
+Circuitry.ai,https://fieldserviceusa.wbresearch.com/,img alt,AI Service,Yes,80,"AI in name, circuitry implies technical service",Suggests AI solutions for technical or field service operations.
+IFS,https://fieldserviceusa.wbresearch.com/,img alt,ERP/CRM,Yes,80,ERP with strong FSM module,Enterprise software with a core FSM offering.
+Praxedo,https://fieldserviceusa.wbresearch.com/,img alt,FSM,Yes,80,Field service management software,Specializes in field service management and mobile workforce solutions.
+SightCall,https://fieldserviceusa.wbresearch.com/,img alt,Remote Assist,Yes,80,"Remote assistance, AR for technicians",Directly addresses remote assist and AR for field service.
+AblyPro,https://fieldserviceusa.wbresearch.com/,img alt,FSM,Yes,75,"Ably suggests ability, Pro suggests professional service",Likely offers Field Service Management or related professional services.
+Baxter Planning,https://fieldserviceusa.wbresearch.com/,img alt,FSM,Yes,75,Planning suggests scheduling/dispatch,Likely provides Field Service Management or scheduling optimization.
+Dezide,https://fieldserviceusa.wbresearch.com/,img alt,AI Service,Yes,75,AI diagnostics for service,Focuses on AI diagnostics and service intelligence.
+Lytx,https://fieldserviceusa.wbresearch.com/,img alt,Telematics/IoT,Yes,75,Video telematics for fleet,Provides telematics and fleet monitoring solutions.
+Neuron7,https://fieldserviceusa.wbresearch.com/,img alt,AI Service,Yes,75,AI for service operations,Focuses on AI-powered service intelligence and knowledge automation.
+Skyllful,https://fieldserviceusa.wbresearch.com/,img alt,FSM,Yes,75,"Field service management, mobile workforce",Focuses on field service management and mobile solutions.
+Appify,https://fieldserviceusa.wbresearch.com/,img alt,FSM,Yes,70,Appify suggests mobile applications for field,Likely provides mobile solutions for field service technicians.
+GoFormz,https://fieldserviceusa.wbresearch.com/,img alt,FSM,Yes,70,Mobile forms for field service,Focuses on digitizing field service workflows.
+Gomocha,https://fieldserviceusa.wbresearch.com/,img alt,FSM,Yes,70,Field service management platform,Offers a comprehensive FSM solution.
+PTC,https://fieldserviceusa.wbresearch.com/,img alt,Telematics/IoT,Yes,70,"IoT, AR, service lifecycle management",Offers IoT platforms and AR solutions relevant to service operations.
+Service 800,https://fieldserviceusa.wbresearch.com/,img alt,FSM,Yes,70,Field service management software,Likely a Field Service Management solution provider.
+TrueContext,https://fieldserviceusa.wbresearch.com/,img alt,FSM,Yes,70,"Field service software, mobile forms",Provides field service software and mobile solutions.
+Velocitor Solutions,https://fieldserviceusa.wbresearch.com/,img alt,FSM,Yes,70,Field service management software,Offers field service management software solutions.
+Deloitte Digital,https://fieldserviceusa.wbresearch.com/,img alt,Consulting,Maybe,50,Digital transformation consulting,"Consulting, but service focus is not guaranteed."
+quickbase,https://fieldserviceusa.wbresearch.com/,img alt,ERP/CRM,Maybe,50,Low-code platform for business apps,"Can build FSM apps, but not its primary focus."
+Tavant,https://fieldserviceusa.wbresearch.com/,img alt,Consulting,Maybe,50,Technology and consulting services,Relevance depends on their specific service transformation focus.
+RSM,https://fieldserviceusa.wbresearch.com/,img alt,Consulting,Maybe,45,Consulting and accounting services,"Consulting firm, relevance depends on service transformation focus."
+FSN Medical,https://fieldserviceusa.wbresearch.com/,img alt,Other,Maybe,40,"Medical focus, potential for FSM",Could be relevant if focused on medical equipment service.
+FSN Connect,https://fieldserviceusa.wbresearch.com/,img alt,Other,Maybe,40,"Connect implies integration, potential for FSM",Relevance depends on whether 'Connect' relates to service operations.
+Ludia Consulting,https://fieldserviceusa.wbresearch.com/,img alt,Consulting,Maybe,40,"Consulting, service focus unclear","Consulting firm, relevance depends on service specialization."
+Panasonic Corporation,https://fieldserviceusa.wbresearch.com/,img alt,Other,Maybe,40,"Hardware manufacturer, service is a function","Primarily hardware, service operations may not be core focus."
+Enterbridge,https://fieldserviceusa.wbresearch.com/,img alt,Other,No,20,Unclear relevance from name,Name does not suggest service operations or AI.
+FSN East,https://fieldserviceusa.wbresearch.com/,img alt,Other,No,10,"Name suggests regional focus, not service tech",Unclear relevance to AI solutions or Field Service Management.
+FSN Europe,https://fieldserviceusa.wbresearch.com/,img alt,Other,No,10,"Name suggests regional focus, not service tech",Unclear relevance to AI solutions or Field Service Management.
+Dell Technologies,https://fieldserviceusa.wbresearch.com/,img alt,Other,No,10,"Hardware manufacturer, not service focused","Primarily hardware, service operations not core offering."
+Timefold,https://fieldserviceusa.wbresearch.com/,img alt,Other,No,10,Optimization solver,"General optimization solver, not specific to field service."
