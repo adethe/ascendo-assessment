@@ -57,10 +57,11 @@ pip install -r requirements.txt
 playwright install
 ```
 ### 2. Environment variables
-Create a `.env` file in the project root:
+Create a `.env` file in the project root (.env.example file provided):
+```env
 GOOGLE_API_KEY=your_api_key_here
 GEMINI_MODEL=gemini-2.5-flash-lite
-
+```
 
 ### 3. Running the pipeline
 python main.py --url https://fieldserviceusa.wbresearch.com/ --out companies_validated.csv
