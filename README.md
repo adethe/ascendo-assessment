@@ -52,7 +52,7 @@ The final CSV (`companies_validated.csv`) includes:
 
 ---
 ## Video
-[Deliverabel 3 Video]([https://example.com](https://uwprod-my.sharepoint.com/:v:/g/personal/adethe_wisc_edu/IQB7p77I7aNaSZat-4AEMdtBAYFj2NiAGqrXXikcvkPgtto?e=DjJHrH))
+[Deliverable 3 Video](https://uwprod-my.sharepoint.com/:v:/g/personal/adethe_wisc_edu/IQB7p77I7aNaSZat-4AEMdtBAYFj2NiAGqrXXikcvkPgtto?e=DjJHrH)
 
 ## Setup
 ### 1. Install dependencies:
